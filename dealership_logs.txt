@@ -1,0 +1,2112 @@
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Received vehicle data
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Received vehicle data
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Received vehicle data
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Stock: Vehicle purchased - Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Stock: Vehicle purchased - Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Stock: Vehicle purchased - Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Stock: Vehicle sold - Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: BMW Dealership: BMW received vehicle: Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Stock: Vehicle sold - Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Porsche Dealership: Porsche received vehicle: Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Stock: Vehicle sold - Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Mercedes Dealership: Mercedes received vehicle: Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: BMW Dealership: BMW sold vehicle: Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Porsche Dealership: Porsche sold vehicle: Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Mercedes Dealership: Mercedes sold vehicle: Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Customer 01bcaa69-4dde-4888-9eb6-51f551a5a0c4 successfully bought a car (Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}) from BMW
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Customer bd2f666c-82f7-4e93-b1c4-5f26400e80ef successfully bought a car (Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}) from Porsche
+mai. 12, 2024 11:06:58 PM utils.LoggerSetup log
+INFO: Customer 445270e1-b1f5-46b1-9216-537d60326071 successfully bought a car (Vehicle{type='SUV', color='Green', id_car=8, id_employee=1, id_station=3}) from Mercedes
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6cc6d814-b792-4474-ab39-953fddda8e9d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer efc49c02-3a06-4072-9861-46bd6b34b9c7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer dc382103-9fc3-43e1-a4c5-84bce0a8bbdc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f523c8c9-0105-4def-926d-f9d22101ae24 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 103125da-8617-460f-877f-178ebeaa445b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a1bc40bb-86ea-470d-b527-33f1acde6b67 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2bd4c555-6f20-4bd7-a84c-9476f0fbc8dc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 33ecbfec-a7e9-4a77-a7dd-71e6ee7d3280 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 00eeef20-16ca-442a-81fd-273a498b4707 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 38eb2577-41ea-47b2-af25-e59b3d1c60cc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f35e15b4-2fef-484e-b95a-239f2104e6c8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4962a870-cfa4-429f-b5a9-c07371ddc0ee was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4629c279-a042-4470-90b0-1c3a7d455ea7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 49a60c13-4383-4786-81c0-2a084bcf459e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ec3e2a89-4a83-4640-b1bd-50becc6ba7d3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b68aa5ea-5803-4662-b20c-cb3f6ea905c0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer dd103189-7d98-432a-8fa7-e71a6eb658f2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d26bd94e-8740-43de-8e38-27c48d63f7c2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0a7b16c5-f6fd-466c-a7d1-5d74a763e96b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ec32cec4-1438-400e-986a-e2c11d80e82b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d1bf6c88-7510-49cc-81eb-344da7c6d50c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0803c71e-7e8c-4ad9-8ddf-b70386b6cbe4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f28425d3-24d7-4f13-a3a6-56d76d8a4089 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e11b2346-3af5-4238-abb5-5d123ab5a29a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0a5a75aa-ede2-4dcf-8565-118179a626a7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 36af47e9-0309-4bce-bded-f006a9f07e9f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f931f1b1-d064-4a7f-bb7a-b64108fa1d1e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 80d16140-91f5-4cce-b133-ed365bdaec1f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b157d198-125a-400a-b20d-8c43e2df3b2d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 401b8ccf-45fc-4b28-8dc2-df9c57549511 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4d3e84e7-7e02-4655-bd74-f1b178e39a42 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8cc43853-ae42-490c-9e05-d93fa21386cd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 83664de0-63c8-4191-87d8-fe4a9e9c34be was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 72f229f9-708b-437c-9c37-aa1515b1fbcb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 22c31671-7cac-4abe-8020-dcc7d77a9c93 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f4ea9a54-1ba9-4f5c-a166-e04d3aa3c527 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 66b0df73-3a12-432d-ba89-4652ae01a2fc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f9db43b0-d69d-4032-8dcc-7aa044463d63 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0926c4a6-6869-4877-9e83-91bac684f71c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 237baedb-cc0c-47f0-ab65-8199599cbac0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer eb01b00b-4576-4128-bc2c-1540936a962a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b29561fb-25fc-412f-883c-9718e060741e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7e4a802e-46eb-4b90-8545-e3145ed9dedd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fafef231-3eb1-48db-860b-8fde1df21c67 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 684e74a1-cdd6-4c23-ac31-9ea4233d1511 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c72578bd-590f-4699-b98d-7dabe0faffa8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 19c1762f-feaf-4112-ae44-4b24cdb17b43 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7e0b6c22-04aa-43b6-a0fb-936869f4a6f3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4293e69e-631f-417e-9998-25719718fef4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2bcb31af-93dd-44a3-a62e-0900f0737317 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 259d36a6-44f2-4098-9799-93949cdadf85 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8ba3f06b-3f8a-46a9-9977-bee60ab07e62 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 192ceb71-b464-4ebd-a876-c7be88cc8a1a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8753985a-0a85-4f75-84ff-ff8e9b68363d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fdf54b0a-c232-449e-8d1b-3669b54702e5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer dad5e66f-de14-41c0-b7aa-a31f79da1338 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 80360dc1-48eb-4b56-8750-82576cbf7525 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e66a0db6-3d5e-45a8-8768-3e00bd6693b3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 88da2f63-7aa9-4a32-b811-b3874ed0c560 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer aeda4781-2ede-46d6-8447-bcfd580dcad0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2278650f-1d0c-4d53-9bdd-39050958350b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fb8ea6a9-f084-4f9d-b061-88c23052dc97 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4e3b52c4-b258-4d25-a22d-60d1c1a148c4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ff466353-744a-48e6-a8a8-c9770ba2d0c9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 93f8a964-9859-48c6-a800-c89337eab3ab was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c6e03fa0-1d09-4f96-839f-487e90a514fd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 57d477ed-7c1d-46a1-bea8-d56e9ebb33e5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 168d5e98-e58b-4a41-abfc-2a52f7733f54 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e68d8ac2-2588-45df-8a55-47056c1f9a4b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b3507738-a3cb-4dcf-89a0-a4d81ca620a7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 61afd39e-2af4-480f-9e31-a47ccc05c252 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4c3ca024-1a82-4cd7-bd09-ac1ac428dff4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2949805b-5470-4a61-ab1b-7b3a390f165e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c82e141b-cb3f-46a3-9cac-721e90e4f39a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 94bccc35-b894-49f1-a9ac-0877f7b006ff was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f958adf6-9e32-439f-84e7-e80e60899c8f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cae5fbc8-5c1e-4b84-88a4-574a794f85f9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1d3eab5f-ed46-4d1c-b7e5-0e6212f37000 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer afa38fb5-ccfc-4c2b-a2d8-93bb401187d3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 40c5cb8c-44c8-4717-97e9-7b669a8c9e9e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 543a0336-3a5e-44cf-abb0-0ff7b93bc6cf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer dc06b41e-0e8d-470c-969f-df8e89766464 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4a9d6300-b4a6-4bc8-997f-f5ab1e5577dc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer aa95f996-7c23-4903-a488-ee34450f9a23 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2932b5fa-8a64-4833-88c4-692be636bcc1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6de0749b-4c6d-4281-8b9b-78a1b29007f9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f688dc53-6a44-423a-8781-6b83c6ba5f63 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1aa1c544-96e5-40cd-97d9-0d47c468af32 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 67892f9e-560c-4b67-9a2d-61d100bae116 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cb8d9c00-9823-4b6c-94d2-fd059272b95a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c707cf9f-3299-4fe3-97d7-8c35e887f5bc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ceae238d-841d-4813-9eae-335b1dd379de was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fd7e5d9c-8a00-45d0-8aa2-dca5b0e17f23 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 747e880c-42cf-4ee6-9f12-4264924b6e96 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8cbf1c8f-e20c-40d8-a9f5-b3adda195d69 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c407fbd0-59ff-4006-b73e-f06fb9a31640 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a72eed71-092a-4321-9e30-cd8e2811d2c3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 47338f66-8e2a-4870-8f03-4e7ddc34c08d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3206c3f6-5696-4295-9a37-acf6cf48f3fe was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e7f6db8f-c0eb-4c97-94b5-d115547119a2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 56150a9b-0623-4cbf-8ee3-4d3a6d8fcce3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3ea2c1cc-54f4-4958-b06d-de8e3912daa2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7b9e440f-11ce-4a69-bf35-19aa02dd5f7d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b8b694a2-6455-49d8-ac42-ba7c30f9d1b3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f53e0ba7-82fa-428a-9f3e-fdf3811915c8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d1ac6725-e358-4eb1-af64-cf6db378b34c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d62c03cf-d379-4182-9319-14d982a27f81 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 02c3fc4a-a2dc-4d3b-891c-a511e627cde6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1ff14bf9-d9b6-42db-ac76-021a377cc843 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ec0bdeb7-8aef-4cb1-a34e-4b5f410b2635 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fc86fcdb-f870-4f59-9f37-b03bbd1b2dbe was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1585a25c-b8cf-4965-8ec3-20fc82b03143 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ad62d2df-4f23-4de9-9cd4-edae0c9672ea was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 39d28fa0-5011-4136-b20d-9af9dd35c99d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 410c97cb-14b4-4b38-95a1-616698d91657 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e8942d56-c603-4a66-9531-688f8fc83f95 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 71b22c86-dbe3-4632-a6f6-a00f09c7d950 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 20236d87-c5b0-4730-82cb-58c2c5c9e511 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ba9527bd-96f3-4ee1-a78f-625fc2b739b5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6b36639d-7d49-44b5-be7e-6ab6c71eb77a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1a48a8f2-c10a-4894-8b77-8c220d9193ae was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0ff5977c-2f0d-4365-bbab-1ca883566972 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1fcc9ed4-cc5d-48a4-a4ba-51aa6e7ed482 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer af150a5e-8cee-4543-a1e7-dcb9ece9722f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 39025a36-bf50-4e16-b69d-4c8a638501f1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d1000f73-88c9-4bae-85d7-28a2c504a94c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7c9393bc-80a0-401b-ac17-766097a71fe7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ba0989bf-2e70-436e-aeb0-c882064c62df was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d5c19500-b001-4251-b9ba-500ae963dba7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8397132c-0de2-4766-8e23-80f28a50e13c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 426d2d20-68ec-4dba-8fe8-7d12eba5adad was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 14b6460b-a61d-4f81-ab8e-21e21574a0cd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d8a0a844-84f3-42d7-bd9c-c3974eff9750 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 49a3a4ae-c6c7-47d5-8b9b-1124ddb1e76c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6a3187d1-ab83-41d1-a505-14d2993b9383 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 235cd892-2a32-4488-ac38-18635915c4db was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4619bfdb-bbc4-4c17-a46f-b98ae298f9ac was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0f4be970-5300-4692-a480-28c3486a836c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b377adda-2181-4676-8906-e5e2a1a20e54 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8893365a-64e9-46fa-80e4-0ff8c7ad8751 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9c6a3531-2ebb-403a-857f-4ed93be2fed5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fa8d95d0-34e2-4ea4-9458-98ab2ecde68c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6752da32-f450-4592-8446-088055e75de6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 41012673-5cdb-4d91-9137-2d3468a4c564 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ed0e81f1-a99c-4864-b3be-9ba456a675ff was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 332ca81a-5de2-42ae-9a30-6da3e66170cf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 611f4948-6fb1-406a-947f-3670f66b3625 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0cd92a44-ac1f-4b90-aac4-7f1089fe82c7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 737161d9-7375-41d2-8937-07c429120efc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 97808ea3-766e-4b93-98cc-1792cdb2fb5c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1bf71900-189f-4d3b-9245-39621751f8ff was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 65a1d916-c946-4110-91b8-2fdd6d4c6894 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 280311b6-e107-4a5f-87e2-f2024a1f5eea was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c134807a-b91f-466a-9aa0-ff391866942a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 61e0257d-d611-4184-97aa-6dee006b4c41 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c8cbf948-29b4-44eb-8ce0-96d68bc5f125 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c43ace0b-4306-428f-add6-01d98b920b51 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d66bc057-0474-4d8a-bf83-b3bf7f9a8a88 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c6b3012f-8ac6-4958-b332-8ece4548f894 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 14e87750-6bc2-4e1e-a0d9-a67b15856a34 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8a1f4824-aeeb-4f9a-aaf9-ee47a5b5002d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ed61cdd7-dc51-455d-9883-295928c2a114 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2ff4f00e-2f3f-434c-a431-2ef4279cb61e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c9093049-b38a-46f2-8708-1ec29e9b026b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ffac767a-b6ce-4301-ad43-201f5347d331 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4c7c5494-ba77-4c09-8cc7-40786ee47508 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 895bf055-3bc8-4269-98d6-f5a0306d5683 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ae4a3335-72ea-4367-87c4-900bbc9f45de was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 95a06fc5-3c47-4b39-b095-dffe9f28d142 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 70b715ea-529c-4923-8072-ef3cb19911c0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7db220ae-9357-481e-abab-01a0a6682e4e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 49302bc3-3a87-4928-88c7-ed38346977c0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 68d924b1-24d6-4cba-8739-631bdff24e02 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8e511d85-8462-4bf5-8f1a-8b5a928dd0bb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d6b98cea-0119-4425-b674-7f8d14506423 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 159c2d6e-1989-4fe0-8635-8daa89d23672 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer de82260c-ce73-44d4-a6eb-8c9ff329c124 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer da8fd579-ecf5-4b1c-bcce-4d01c97ba18b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7f6fe612-ebff-44c1-8525-32be9ac8a1c2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 83291c8e-a112-4d8c-96fc-567c953b64eb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7674ecab-0bf7-4986-ac88-c176cb38c48a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 337c464d-1ddd-485f-8536-b8878fe189ac was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e0bfd82e-ceb9-41c9-b25c-7eb722e35174 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 496c3cf6-c7d1-4990-872e-d46c41bd88d2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c61c8de0-5ba5-44af-ac4e-464bfa3dde4b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 45c4cb6a-66fa-4a4c-b0e6-a31008e692be was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7f2eb6ff-e39c-4007-8337-6806e54bd135 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fa362490-9e54-414b-870e-686a870677fa was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d8ed0b7d-19cb-44b4-8203-479bb9370796 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 582dfd8a-0d1d-43fe-a379-c3a37c7fc5cb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 56d2c443-9f08-436e-a5ea-7c4d2329b8d4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3e0f4562-7c19-4d12-a247-9bd063578694 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 13d698ee-0874-4bcd-a996-5fae594200bf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2410ddb2-2b5b-4cea-8145-0c162061df58 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 43cf0f32-adb4-423d-9bef-bab406e72258 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c468bdd2-8879-43a1-9727-b3202ccba89a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8b3793a2-cf82-4a80-af2b-ad7c1fcf2f56 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 31a7732b-65e6-462b-9219-36c7302776eb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f96872d1-bf15-424c-bd31-ba81f18e7258 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8f8560e7-84ae-49ab-a82e-8d5bd6ef958b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e223226a-3cb7-4e73-af98-04f100b9bd2a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 631ec5da-429d-4fcb-a819-1a0a04a7d508 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ea471e41-72e6-436b-9bcd-8ded72a7d61b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3c14f2d2-b28c-4f66-af06-a2d0f5464061 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c3b479f9-a3f4-434f-9a4e-a82af275c188 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 91055d07-1a63-48c0-aeb5-da0e2262d6a4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cd4560cb-0ece-40cd-a560-971caf392baf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fd4d5431-e2a4-4959-926f-a6f92c79c698 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 67ae40d1-fd2a-4355-b725-cd0fe3b7f3d6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bf3f5bab-0d4e-4c48-b107-913dc7b1f4ce was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 394eb815-c18b-4a35-a1f4-60cd096a202d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c288595a-f4f8-4564-a612-16ebdf277898 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 92cd52e0-1cb1-4cce-888b-1c15bcbddf7c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 061897dd-e30a-4739-84cd-9fa857889848 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a30d9051-4a54-4be5-8d10-9c5576730896 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 10ea0631-c91f-4723-809f-416ff391157b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer da327c2b-28e0-4181-b224-f01c325a3dc9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 31f181df-e6c0-4013-9fdf-1af72a0cc212 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b34f32ee-8500-4f99-89b1-73e66431c2cf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ed6b7a27-d1ac-4125-8c4b-a26c32a658b4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ab41d649-cd82-4e47-b28f-c1557aea8a96 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8d67087a-272f-4d14-9b4d-f33896c9b63a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5d288262-47bd-4266-9810-7a532a0beb52 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 56793448-5076-4d38-a32b-130a8e4e3024 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f2cc3708-58e3-409d-b543-d31c7b2bcd62 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1bedfb40-4d01-421e-b14a-6ef9f8bfc2e9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a4f7fa0a-a3dd-4560-84cd-c4e07599fa00 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ba8ff7ff-2c07-4b00-aec7-e730866d21f4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9dc98c29-8ee6-4e06-a912-6f065aa25909 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c7c4f7ca-fa2a-4107-959b-dbe4ffbd1fca was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8b496f59-6a00-4b94-ac6f-8f40cc2f014a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1a9d0baf-2f3c-4641-a060-2b18ef199380 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3d97a32d-6143-410e-b5d8-4074453992a0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 25733e62-a5cc-4c61-959a-fe2824c35188 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer af1b2f50-969a-40bb-a056-395adf14591c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 52fe58ef-333e-428f-9db6-60c1a145a97c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a21eb9c5-e4a1-49d5-a6e9-6312f4804252 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 998798b8-b4b4-469e-a7a4-f9a787ff9887 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 12e2ddc8-7d0f-419f-bd97-afb346a76569 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer de3c2da2-ec80-419c-96e5-29ccbff96662 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2a352261-f24b-4576-ac0d-20185c80ecfa was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 29c8c161-d088-4ea8-9ed6-08fa45ad731d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 574c434b-225d-4e8a-adfc-ca3e602a63e1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a823978f-4c48-4232-b7d6-ae69feaa5e74 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 90f85f9b-1142-4733-989a-73602d016ebf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 438f5ecc-0c31-47e5-b686-599eb6f3f8e9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6b9e13a2-703c-4cb3-ae42-ab6a8138dd87 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 73f218a6-e8a8-4c7a-9222-820380810940 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a83a710d-09af-4682-9f31-3c0f096ba9b2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a11007ee-3b9e-4b39-9b19-2afc87d4308d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1ac3e749-00d8-4d91-9e98-e82667853cd8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1ce44a55-6927-4d75-a965-4747fff23d83 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f6646456-4a87-404a-8b39-2f749e793320 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 34e23a1f-e390-4776-bcea-e48ad50b369c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 51a354b2-2a3a-4b20-942a-e56ca2662118 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 05a72bef-9c69-4805-8d23-a8565a9b95fd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e2f4c73d-0be3-4bd0-8085-769e3ecf82e4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4b22cf35-3620-4407-812d-f4342d9791d3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7a2a8986-9641-44ba-8ff7-d2c869960041 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 39d25315-586a-4bc7-abd6-f6e09b8300b0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0aa51585-e5e4-4dba-9914-f07bc6c0eac8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cded3204-d06e-4bd5-b9dc-87125d5028d9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 50cef853-2a87-47a4-baeb-638c68c913c6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d62ef917-25d6-4d92-9808-7fdebb753d8e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6558fdaa-58b5-44fa-9a89-53b07edb50b5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 726b9ce7-a8ee-4cf5-b09f-8ed5c0db73fb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cca30592-c434-4258-bdfc-ec6d740c4241 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a4f6c24f-fb26-46b6-a7ce-6082d1855d0a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1c28c530-ff40-4e1d-80c3-548c01480b9c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f4a78610-f458-4800-bc37-2efde91ae2c8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bde2cd92-72b5-4ad5-b940-e7dc1472fcba was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2ca97053-f2c2-4861-ada3-1e73b81bac25 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 600010ec-731d-477a-9e08-e19a83209f5b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4c3666a3-b91a-40c6-b1bc-65e84699450e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3e591d4f-762e-4635-861d-58445e8f97ff was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e77ef1a1-391b-400d-b82b-3ef0001816a0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 143fc5ef-a9b9-4a8d-89b3-ba7553d6fed6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 63aa73c2-58e5-4150-87e9-6c93236733b0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f7fcc3e9-a3b1-4b0a-85af-3fabf5b1cacc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer dccd78dc-3146-48ee-97a6-701f35a5dc96 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3f9ab8c7-3a2c-42c1-a94a-0f14ce69f997 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bc2cb071-0204-456d-9812-c2d8b204da15 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2fa76379-cf0e-4dd9-a00b-9efa8a378648 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 26c03baa-3124-4030-b692-95389110d6d3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5536be0d-132a-4680-99ef-2d6288898e95 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f3a29b83-7f7d-4693-a142-154fa2d4aef0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 33cea5ca-3cbd-465b-b650-f352c931ea5c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9f00df17-039d-406b-9b20-ea27f4ca4e45 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 775060e0-2f29-4cac-b5d4-dc58b6f8e332 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e12d6728-e401-4f85-9d76-8341f4377e8b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c3ee7332-393c-47cd-aaf7-3f154130f1bd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer aad4028b-c534-46a5-83b3-63b74a6f8624 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f145541d-5b76-4816-ac14-ac169ced0466 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 57b31026-3f96-4252-8a1c-039ab777a156 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5bdcfab1-b03c-4236-b893-8f2caf88f317 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b5b50f65-8bf3-4201-b8c5-b93cfbf322e1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fd910d93-e365-4d88-a036-74be6e9bd234 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6a0fc419-4a26-493b-a991-1c0153b75baf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d8421496-57b1-4de0-9510-15404ad80c54 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1646ff5b-8691-42c9-976b-e502e0083528 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b860c12c-f19d-4199-906d-d359e2d65db6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e7dc54c9-c011-43b6-8811-834ab976a6e3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a4ef5741-2f53-4b91-b5bc-45788591d729 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 340aa4c1-4401-4464-b809-a471469fedb4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 421963b0-8243-4e32-bef2-e4f54964cb02 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e71077d9-ecdf-458c-a4b7-be38048b2e70 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5394a73e-f498-4844-8772-9af85bb59f5a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 90afe389-7b51-4b90-8cea-4ad4152e487f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cf295ff0-55f4-429e-9221-cb7e68907ef7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1cbab1ac-e3e9-48cb-bfd4-0364cc1574c1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 074f380a-525b-4541-b608-b232bc8dd824 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 75f91cc2-c252-4c7b-9d5a-7f3ae00d022c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8026daf4-aaee-40ac-98d3-2419e08de898 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a26ad3a5-797e-4df8-b346-7d4617416fe5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1a0b0b5d-441d-4b22-929a-74ab924044ca was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 65632cfb-03f0-4292-8eb7-cde53000501c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d4345ed1-8695-4a2e-b5a0-e2f48be6b530 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5789e5e4-6f1b-4370-b5b6-02ee81524e68 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 88b02ed0-acd9-4636-b871-c400ef264a67 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a64026d5-396a-4559-a9c9-8e0d2d232f96 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b85e8eff-24b2-499a-b7a8-99e44c527ce3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1e445f0b-686f-493c-a749-14dc30f94e1f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6cb929b7-7fac-41ac-a60b-14e1284f6816 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 91425f4c-69d9-4798-94e9-0485a23e5db5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 04b35622-ac6b-48f8-a79d-8cc637983462 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6dab1a5a-b80e-4e06-bc38-a541c32cf091 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 494477be-1b70-4129-b87a-1f76c3d78654 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9e9b1ad2-fffd-4a99-b4f5-98d31620e56b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2ef902c9-5ec1-405a-ac5d-3bdd0ca12a92 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9d5574ef-d4f1-4317-ba7c-fdbe8377c9f5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 18abc21e-e824-4463-9551-ab0d338472d5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cee6ef7b-745a-4b66-8fcf-038f6e197603 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d7333048-dd2b-4980-bc00-408090178c24 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9cc1a428-6fbb-43e8-9996-76e738dfad42 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7db5e703-b2d5-4444-b319-8ad1ba2f67c1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3a6d90ca-558d-490b-b323-18209acbeb1f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bc5b2106-a7e5-4b59-a94c-9788a720533d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8e9f2238-6ac8-4399-a735-12c9670f76c1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ab643187-910c-4a93-ba36-f2585e4eaa3f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c6b009e8-dcdd-4af1-bfb4-1ff992e1e869 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2bc4a95c-f990-4a68-b99b-f44bd163ec89 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1d96f20c-7c17-40d1-a2fd-cb13b37cd840 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5f1a7a85-cc99-4cfc-981a-86236c08f553 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bfb0ae12-ff11-46d7-9494-21ecfb1be05a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 42f06e8c-410d-4305-86db-e2ed299c2f30 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e9168537-d623-4f95-bc6d-9073ab488d92 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4aefdd76-744a-4a56-a3e8-af1e574d09bc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f608578f-352d-40bb-a44c-5e83ec026108 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer dd18ba1f-cad5-43f4-9791-95613bd4bb70 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3b25a691-05ab-4ae6-9cb6-f0d88086e922 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d0c03f4e-7905-4d5f-9cda-12d488f12d52 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 63576ed1-af93-4037-b2d6-84715f213de0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2403df07-e451-45f5-8eb7-733ce5535ebf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fd3f3783-b5f4-464c-ac8f-a2071fab099f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cb14f849-6eab-4c14-a7c8-b0565445b9e0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e004db40-cc89-434a-adb8-7eafd5355dd8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0a0ebbc8-cc24-4926-8458-8208117f0c80 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a876f736-0bce-49c0-a58f-f2d3ae5bda1c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9d7b4797-215f-4df6-b3fd-9a5520d68343 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b8fd2901-4e05-4c4c-821f-6d805f0cb7f3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 64474391-b7e9-4d79-9d1f-24add6c499a3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 559d247e-4ea6-4d72-a647-4bed421e3084 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f52bfc9d-7849-48db-986f-9db3849b519f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4095e327-29b0-4fca-b251-d3a49a3e39af was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 79747ed9-23a0-4aeb-8d2e-328dc2c8a4e2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 70514b3d-d376-493d-88ee-41634cbbffb0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3d215757-57d2-4527-9085-f16692da4310 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bd2d39d1-0d79-4ea5-9d87-b78a720f4fa9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 40b516a4-4b2b-4cc5-9ef9-7397041acc6f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d26ae3ce-431a-472c-8690-0365b3a85cf3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0639fc9b-cf14-4831-b64f-b396c2672999 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 64478a23-2ead-49c2-89e4-0dc7f0a2b609 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2e9f5a82-8846-4f8c-b4e7-3b14aae7d1a0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 48042aae-f38c-4d53-a451-8aa3c7b9e88d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer be2e0bbe-dc80-4633-bb6c-6262d3ab2fbe was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7387bde0-29fc-431a-94cd-34c30a16c3ad was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9c13de8c-c383-46be-9047-0017d7bf73bb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 625d3350-9b5a-432c-bcd1-80c1066954f5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 58ad9114-af34-4372-81ad-f4cb6e234944 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e6e33358-2efb-4886-a4ed-c769d71443df was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7bd4eb2f-373a-418b-9087-354a645dbbb5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1c99c624-8f75-4ebe-b169-16fe54ea677e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 60830a78-9a4f-4654-adc3-54e20231a8f3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 05c353e3-6cc5-4c12-86b4-5788e44e19a7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 138a5638-2072-4a63-b6c9-0d2bbf32f4bf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cd43dfcd-f52f-49d2-8d83-9330ac80e2ef was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fd25e810-ab74-4a85-aee1-9005cd7d4707 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bfd6399d-9769-4a9c-b635-c5257f300e7d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c7b150fd-4254-470c-ac0d-11cd39dd402f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 120dab84-535f-4f82-b57b-b2c3af9d6984 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 08f69b3a-305c-44db-bda0-c82202880265 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b586f338-dd0c-4eba-b721-a343f0e2b377 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ad23665f-095e-4fee-9a9a-8a22baff2e9c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4e56937d-a9cf-4840-9cd2-f4e5c0f9cb06 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5365b6d2-3abe-421a-997f-9cb8aede2ea8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 12d21324-a627-4c3a-82c1-c35c81372c0c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 339214cc-82ce-4e6c-9061-a1d47e7db9c0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9904fd15-80ad-49ab-9546-022470c70f12 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 308367fa-d806-4c16-8049-5f14529ca97a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c89dd283-e669-4a5f-b148-bf5488d2f686 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 748cd4a2-d8dc-4a69-acd5-96f4e0687a1d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3036a342-1ded-499e-a327-fb2c369ffc2b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ff86d179-e4d8-46d6-aa90-e02f547974b2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 31712785-234e-4956-8760-e54badeadf17 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7154a433-1a89-4246-9d30-46ce8e11c960 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c454df0e-c400-4fb8-86ef-f6205e34034e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 00a8cbe0-6c1b-4066-8f6f-3b44e28d5019 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c802f416-2f19-4b98-a5bc-73162ff12c83 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c3b2b5a3-6992-4fba-ba3d-06f843ab64c1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9dac9ee6-94cf-4727-b409-c12ea78fe63a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7c73d396-8450-4299-8097-f6e0397a9b04 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 359ad6ea-bff5-40de-b6d4-9fdf2db50894 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 09fae656-0d5d-4bd7-8441-b513c93df54b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1803bd59-1d53-4eb9-a8bd-0ee5a9c016f3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9d07f1ad-186d-40aa-866a-de727397657b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5fe94846-5116-45e6-9f49-1798a9134e9c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 763ee096-8f2c-4681-a0b2-ec491bb8109b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b967ce47-c34d-41ec-a16c-430169f50593 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f14fd32a-2f67-42f8-af96-7bf9bfc0c55a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fc78b4a7-6eb5-4987-8542-63988131d7ca was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ca6a2ace-30e5-4d2a-98c0-cf237ed09575 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 984fe99e-607b-4bc6-80aa-81194763a464 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 653cd3af-0635-4764-9467-8d53a2ff1503 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a7457567-0773-4944-b72d-9acb0839a80d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 312990f1-9a24-4884-9581-02a79fd7f992 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 200e1e28-3b24-4843-b8ec-bab903a8fbef was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6779d86e-80a6-42a2-b6de-a2f13a02c563 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6c288c1c-d296-4f76-98cb-8cf9f904462f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 78e29bda-6920-42ca-ad1c-9af61e520151 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fd3351e1-7a5d-4a10-8e40-b23b539a9992 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 45916005-7e44-4a85-9241-65e488114a85 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2e8d723a-f789-405b-bd60-057954a832a2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f8698e4e-549f-4be6-ba42-67d44fdbbe52 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2fa1dae1-6bfc-4a21-a426-266a16487b8a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 15428b3c-1f04-4c0d-9693-a57706512695 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 795df0ed-c165-471e-89a1-e8d52ec402c9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d9eb3f81-d622-4794-97bb-7a64525d0fcf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cc06885f-3586-4e86-aaa3-f57eaa0e42f6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2987c090-7b62-42c7-8569-2f0a016f029d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ad8ebce4-eabd-4741-ba8e-47d0a0c5b18d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0e41f0b6-c3c4-43cc-958b-41b861b4189a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 79ce533f-cd04-4123-9d9e-3597b356f7b4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ec3d38ed-227d-43b0-a080-0f05dd976c70 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9b4a5040-6476-44f9-baef-41cbfa50527b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 937dc8dc-6f7a-4b96-8c78-fb5560825e42 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7e480d19-2fc5-479f-99c7-5beb9e1a0523 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ff3bd316-61ad-44eb-abe8-98ca26f34a89 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5ffa416e-d139-4af2-9e7f-dda02704cea9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2a9b7869-3a81-4475-9a2d-9316ac281665 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer abfc09df-9237-41a7-800c-8545750ea061 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cf4f7463-0ea8-4365-b7b4-efb674527c96 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3cfa2359-7cbb-4e9e-bfcf-4eea4fb4dff9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 79772f16-38ea-4b61-a814-c7ae906e4339 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7b526598-db9a-4d9f-bdcd-451155ccf1e1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e4bb944f-005a-4a7a-9bde-26e4c40a993e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a417758f-be00-4b3d-a911-ff5da7cbc9c3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 667757db-ff3e-4953-a6bc-e6fd1307f404 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f1b8fbb8-d495-44c6-ac5e-5b55ad6a732f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0e7b06ef-f4ea-4a5b-b134-4db0667fbb08 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a0c77f8c-10d9-4baf-af05-e583d535766d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d0863ced-19c2-4602-a07a-22b97f973a4c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 68ffb119-15e6-4d59-9e1e-cc925d4e55b1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 69a96177-2e0c-4e19-995b-8d2b9730e8c2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9dc0ebc1-7551-4638-85e1-308e512b2f4d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7859d407-1203-44ba-94f5-8bc42571c84f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 35a441a2-9e7c-4793-bac2-50915176c919 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c764e8bc-3bb1-4c52-91a6-592812e5ff78 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f77d24d5-b431-4630-82fc-3863a2593421 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 905503a8-ae4d-4eee-8117-5e80c804af3b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3ec04b9e-1fe1-4afd-8678-da0a1a2cf2ac was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 994477ea-a595-4a9c-8c1e-b8eaa999a2a4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0f3e8be3-ae0d-4a4f-8219-a0bab468ee3c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 93aaa819-17e8-4954-a227-9498758ae493 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0b512344-ccaf-4c24-a0f8-15c3c023d5f0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e3a584d4-acfa-4ca9-91d6-895d238d0d2a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7365d3dd-12fd-4044-a2e3-d3d590d7f930 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 82ec2b8c-ba3f-4057-8bdc-2d05428ea65a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8367789a-0101-453f-a5ba-0fa09b490764 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 67d9c0f4-42c5-4bed-bcd3-a74409c43438 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bd3e6129-5774-46a5-b9a4-2b29ffd0d77b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer de49ace9-7274-4665-869c-34ca484eee08 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e4867223-408f-4d1f-ab95-5f1f29295911 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 169e0717-971f-4de6-8e2d-e8adb80a0bec was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ad8395df-bee1-4c58-9bdb-e57a7ee95d33 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b40c932a-1418-4d25-b9de-23dce0a2633d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7ba20e4e-1113-4ae0-a755-8ce08593e74e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d763b190-7af6-4d03-9372-3412ecbd09f8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d3567ff1-85dc-43d4-85f6-1c80e80eb990 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8b583dc8-6c4f-4850-a08c-919e4e97e4c0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a8c0c8a3-5ee3-4848-a0d7-9b1f9ec1217a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer eede173d-e628-4513-931a-da2c2a74e4c6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ab0c0427-f004-424c-868f-c86aff55b64e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2ba35bc1-fd5b-45a7-aa07-166ff06131d4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4f211ab7-9874-44a2-94c3-6a079878b40f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 70c59174-cbdb-443b-8c2b-c6699f9a20b9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c78e49c6-be35-4ef0-81f9-39782c1b78b7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 42659b2b-d60f-41a0-86fe-4e829da3bd9a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a6432326-7ec4-433f-89a8-70ad8b69a772 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 994805fa-284f-4eab-9d6d-f53f3c5a9d52 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e9ac853c-886d-4f88-8927-177b3a5c7db9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 21794f26-373a-4028-a3b5-edeb0e008373 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 52aa5649-e218-4135-857b-a5fa5944f44d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 39e1d18f-d4e6-49b8-a012-e3f1d2ba0db5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 88d271bc-d40f-4410-8d33-d86cea982258 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 98b963f8-5f3b-4af8-9697-80c54dfc78ca was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3cec578c-3871-4a6f-aab1-15800334c94d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 95231859-c508-4eb4-be4e-f105ac52c415 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ef062000-916c-4312-b858-0b592412d197 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6a1d74b4-d9ec-408d-95fd-d34afc721fbf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 34d7ca4b-52b2-4b8c-9228-2db7499d7bb4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f545fca8-63ad-4479-966a-deda4b3e7b5e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 56892800-0236-46b6-a95f-8c51716bb935 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e0857ba4-9d5c-4441-a2d0-e615e2f8f4e0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a23ff52f-0622-436b-85a4-b3ab1d767a92 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f86c4ae4-458c-41ee-b9a9-54faf5950b8c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c687f931-9d71-4458-a29b-9ca4f4db3ec9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c4b03d7e-32ca-412f-a498-3647c252580b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 986023a3-598a-468a-83f6-fa30a9c7582d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e50f627f-aec3-42a9-a8a2-c81a3163b034 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8269e881-d52e-4caa-81e6-18adacc4a26a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0d642651-e11a-4d9b-9ca8-59a7e5407695 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f018f586-1934-472b-b09b-b5738d802e33 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 451cb50a-d6ab-40f2-aa4c-d997d9191151 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cfc3b9fe-64ee-44e3-88bb-9f3f5da684c1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 525583b9-7bc0-4d77-a117-4d378a9e6953 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e9df7bc0-7d2d-4a4a-a5bb-de92f1a35abf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c20fdf8c-5ed2-4508-ad0e-ed48a0c17233 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ba354e58-48c6-4014-a761-93f160bc093f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 31f41c2b-89b4-42cb-bdf8-a3c80af93f35 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b93307b3-e66b-4352-a537-75483e8c2fe8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4d09b015-719a-4d57-8d8b-d972d491e019 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 366366a8-4a26-467c-88d3-61519311920f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4e087ec3-296b-4a49-ada7-fb076881e679 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c3465fc7-e4d0-422e-b065-b37c2fb07569 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 920b59e1-c5c7-4676-b50d-3646168e5805 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 13a815fd-326d-416d-acb3-db321151d0cd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4c1fdc01-8b3f-4213-9a0a-fb86f55819c4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 06a54aa5-f476-4034-9dc1-0d8149955aac was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 83584287-6b26-498f-808a-5f8602c2c212 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e1047d86-980d-4e7a-95ba-251f8cde19bb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cd006717-0e13-47c3-a495-e5168ace0fe5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8d42952b-f5c6-4fd9-9f1a-f5ef7cf93350 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 37b017ad-c5f7-4293-b40a-a64a2e64332c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f0ebb325-a0e7-4ce4-ad6d-11e0c0438420 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ec761499-6f99-41e4-9ad6-257dbbb64e18 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 95c6411b-6259-4d0d-bdcf-491cbc23e389 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6b3af818-0fc0-49e2-be40-6cfe0500996e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 728e3a5f-0b16-4ce9-af9c-62166ea1c7a9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 94effcca-12a5-4934-b71f-12d5f1be84f6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 931d0a56-f02e-45b4-890e-72f417191e68 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4e46f25d-f081-42bd-90f6-89b0c6958d1d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5798fa68-e8cf-456a-ae4f-37c71ff457c7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 684e1002-c7ee-4163-a651-e90b568b7c93 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b423e26d-90d0-40bb-b445-d3f5cc10e79e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4c60a870-5340-46c3-940c-273fa6062064 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e1ad22df-6470-44fd-bf8b-c6e91bb6822d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a5240660-a9fe-4fba-af6f-af01b12f2b55 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7d8d6e12-b71d-40ce-b35a-9c54ee49c6bd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 445270e1-b1f5-46b1-9216-537d60326071 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f11dfeba-2e47-43d8-a7fb-fe8ea1d31f49 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c8434e8d-40f4-457d-9e7f-47cdd5598c48 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 39e55836-503a-4396-a6eb-b648fdbd1e54 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4ca4dac8-752c-4940-a692-433ab09e74a7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4ef76cff-5bfc-4c2f-aea1-7e4171d8050e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7fc84d33-f65e-4cd3-b104-caef4a6c01c7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8b612a0d-d2fd-4943-978c-24e4a29aa571 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7afae802-93de-4f66-91d9-67fa16573449 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0c19b0ef-0482-46d6-aebe-df7694588f6e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ebd93293-d10f-4f81-9782-8761ff251652 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c290c44c-135c-4c50-9dd1-caa9c44a8afe was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 704c3eb4-3b34-46fe-9688-af70db647b25 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f786daa9-6cd2-4638-8317-5a0b0581c6b6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 056fb6b9-c0e5-462a-a1f9-905af19416ff was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 859b7a37-f7cd-4067-83f2-f08c848397b8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 11fa84de-a758-4463-b116-364737a2a5d9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 149831d4-d7f1-43dc-82bf-5bae1f6dd285 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 170c0f60-2859-49ea-a18c-219c2f08857d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f9031d87-af27-47ea-bbce-67494d715084 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fb3a2d93-b577-43ba-8b37-81befbb30f8e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 93c2366b-89ee-43bd-8a4b-bb9fc343f897 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 85c4b9f0-0a73-4d46-9ee7-6a3208446056 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a6b39964-a708-415a-8755-b75cd1fece63 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 69187285-9cfb-4bf7-b392-3c6b68c7bc24 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 17ce1816-6ded-42ff-9cde-001a3cdbda6d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f71bd072-868c-4c3e-950a-b699ab034810 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer abe6d2d4-d723-42b7-9eff-1b812d2c18a6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 867b1d96-0b78-46e3-b52c-d6bfed7f43d3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 44e6193b-408c-437d-947a-1b163a55b69e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 590a92c2-64d8-4f1e-97db-03cfe1273e99 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8a69ca0e-d9e0-48e9-893d-f7ce741759f0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c2cb9e36-187e-425d-bd98-7a10e54b88a6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 593212ff-32b9-41b5-a1c1-c29fd54248b6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2061b369-d21f-4957-a7dd-15b177cf11e8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 04c6ae34-d186-4f19-9467-038fc28f2814 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b43a6e16-2010-4cb2-b798-0b1968626da5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 113b93e4-7e51-4df0-95f9-9b11a94c8e1d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 63e691c9-88af-4532-ad1a-59169d583455 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 05c5326b-80b3-4bd0-a54d-a9a8f7b0ffdd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9a60f475-c771-4e66-ad7c-1d611777822a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6e7887a3-57c2-4f5d-bbc9-e66b158a2e1b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5a9516bc-c7e9-48e7-8807-d7539f6ac261 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6d032a5d-ca7d-4bc6-aad9-6ea6e44c33a5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 284e7f47-fc98-4366-9783-75664ff0ba6a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1e63e634-e061-4f7c-a000-3bfc465f603c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer dc2d5590-a056-4874-a080-0edb2ed8d1a4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d58798c5-3d6d-40fd-b1e3-2605e157d7da was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 89a744f0-ed2a-425f-bec0-8be828b88804 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer eff21603-6b5e-42ad-a6e6-f62a541cfce7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 262ea3bc-5a44-401a-8cba-8d870dbf40c3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fc8638a1-99de-4d56-a743-5d5811adfb51 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 83dde0da-479b-47f4-acb1-6b123a536076 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 932bb153-76a7-469b-b557-3d0f646d23f4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d545d585-2748-4bc1-bb7b-8e6493f9c9f6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0c4ccc0d-6283-49cd-8f7e-e18c985c68a9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 884b4608-6670-4e44-b4dd-a8c3d677a11b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6b15696f-7b0c-4eba-b464-d99b345d1122 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 08ac6b7c-0df8-41b5-856e-5838229538b9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0e936d6a-7962-442a-bdf2-c5958448e2f3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2bb2215e-ff32-460c-811c-56e108c1bf04 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 99902bee-17b0-4a7c-85b1-30a431d28da8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 35b5494e-febe-4a29-8909-74c1fffb096f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a13fa288-c878-45b0-8523-f290bf162537 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0f781719-f049-4cd4-be23-8db130df22be was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2f769797-5073-45a9-8952-b44e0f9362b6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 61f9be6a-5695-4e88-b50a-514a9ba8cee8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b9faf209-6f15-400f-a480-9e79655f232a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9ec8b950-7a44-49d2-a990-ceb23d107942 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 40d532bf-b699-49bd-8a83-29fe9000a5ef was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6fdd0403-222f-48a9-bb30-a7a1ea555138 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fa48bb97-b9ff-4c0e-b29d-3cb2f3d510fd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 573a9b40-44e4-4d93-b1cb-c622bddb7731 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1bc8d2e2-9cbc-499c-943e-2b0b3d9bc5de was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6bf6ec0a-61e2-4960-ac20-35a24ad64ed9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3ab115bb-f78d-4223-a338-8fedf6e38355 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f31e181a-cc12-484b-98f1-ef245e2cedf2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5931e423-1717-4d1a-ba8b-d45d9b54d564 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5530da73-5557-4fdd-82bb-5be2f2655dea was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 63e45c04-a924-49ad-8e38-adf75c770b1d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cdc418bc-7b1a-40cd-befc-fcdbfc92b9da was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 57672fac-33b7-4824-b75e-8b81acc2b95a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 86176cb2-b0b7-4975-8c02-02ac09a6fee0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 34ae30d0-35f8-4df0-9654-074b37f4c1c5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e0c34f9d-0c8c-4338-8ca7-5ea2dc36e78d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 599bd953-a97c-4501-9b19-1208e6f4ea5c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ca15691e-f1c6-41ca-8fc6-9e2ee8731576 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7815938f-f021-4378-ae6b-f4f7941f429c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bb5960ab-659f-44c1-b8ee-3cb1e66aed6e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a8002475-aab6-47a3-b3a3-edda5c19c6b5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5dce32d6-a835-471d-b13c-bae8861faf83 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c3544f6b-b755-47a8-bf58-aec30b7936eb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c7e0a4d9-8cde-4c7a-aea6-9de278a370e4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 67fda572-71bb-4d1b-aec1-d4b89023e8f5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3e13a112-10cd-481f-9d1d-222409f11c64 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d6413d02-f1fa-4f18-bc05-3f77e420cee0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer aeb7fe34-1e6f-480c-8b79-222cd02ca4fa was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b7a936d5-7508-4f6b-8163-ce8bfa039faf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c047eb2c-0598-4a97-9fa3-621810c63dea was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a665c18a-ccc4-4b51-9671-135f9b3cd4ea was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 05e95cd1-f403-43a9-9e6c-d994d5390a6c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a40d7780-41f0-4b93-9132-21a739de8327 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7d8a2843-9bc5-41e6-b29a-9dc6eb20168d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8eaf8c15-1d10-4354-984a-3637bda497ae was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6b803be1-22dc-4cb0-99f1-c26c67c6b35b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cb35f762-56f2-42ab-8a53-d26e5a4f59f4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a23ab1bf-9ac2-424e-8412-bf722452cdaa was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 750f2686-d4e6-4b6c-842f-b2da51ac29b3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 13810cf7-3e87-4136-a1f0-77466559f1c1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d09b5dbb-f936-4778-ac8e-a1fc99668e1d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e2469e94-20d9-49ed-bdfb-c971b204c1b3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cb17bf89-0927-49a1-8659-eedaea88ceb1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4d179065-da5a-44d0-8c04-bbcf88ee3c1b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cd8182ac-6eaa-4197-b6fb-1f780c82d278 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 226c3f81-62a7-4de0-8f94-c1af4440dcf6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6f8c1ec0-2377-4a5a-b868-b27bd904d31b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 270dcb3b-dcf0-4197-8ee4-9e86c7b1dac2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer eff3cef8-5c9c-4642-8c32-3a0051fcd979 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5e9dc615-9a43-46f1-99a3-35444016f686 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 87b4f72a-02e3-4443-9d62-6c826c318e77 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d21ff994-bffc-4f4b-835a-bf01fe31942e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b62b5153-3918-4f30-947f-5930a9990660 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9b0cc31d-dd3d-4643-9ae2-5178a23c207e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1b4a802d-e977-430d-8f3a-f3e5a5cb29c2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7a4880e7-8150-46fb-aa62-b5961cdf303a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9165ff74-79ea-461a-9451-09de2f5aeb34 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 35698bdf-1968-4329-9c46-8cbc85662d89 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f79d9c4a-a1ef-4ce3-9440-cedd9ca45645 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a04674d8-5e76-4bb4-a74b-3967c64df4fb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c3fdf01a-0c48-49f5-acc4-5859d2382576 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0fe9b0f0-e291-487b-ac39-48516da08644 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ca666063-39e5-47e9-a29c-3a58939e0d8a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9ba0a47c-301f-4d2c-bb52-4d9897a1e2e4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e57f8872-c908-49f6-8a8b-1e35c87ed738 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5c91ea9f-09ff-4df6-a715-e9125e0b6f97 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4f99dd26-fa92-4809-9cdc-78c22d503209 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3b9bb7a1-e5d7-44e5-bf7a-35434984f947 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4184246a-2e6e-466e-9b4c-ee578aa303b5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0f926133-59a0-4032-9daf-e41a7e68758d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ef7aa94d-b334-4dc6-9c47-871071e96034 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1068752d-5b7a-43c6-a030-e913265b361e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8c249a40-9f36-40cc-8e24-e9b216ed2775 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e687c983-e38b-431a-ae8b-a100f40c108a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b935748d-bbcb-405c-8cb1-763603b14483 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d78ac45b-17ab-4648-aae6-2a94bad53e69 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 97dfbeb4-0551-4dd0-8d18-109abc86f0db was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 30d5b1b2-f126-4abc-87f4-e6309dbafdb3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 47f217c7-3d6b-477d-abda-dd9b87058f46 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 64144f25-f6bb-42cb-94e5-be951179506d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2ff98ef4-d94d-49b1-aee6-26a5139c3367 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 947cebc4-d96e-460e-a39b-947cb0b5d0ad was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 28f52da2-e791-4303-a1ec-96aa6f24bc50 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fa867b08-d64e-4a1a-8155-8d0ce6e142bb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a20f0f30-9952-48df-be51-ab8746a47dcc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ffca6f1b-95c7-41d4-a56b-e975682ea6fc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fde77417-082b-4533-a98d-8ac2e06ba19f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 08afbb68-ae74-4484-a84d-4a1846b74a95 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b39b9c91-7231-4cb2-a97d-a4a35c72ee65 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3148566b-764a-43c1-a166-a886d7d0d0aa was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ae87948c-b157-452f-8045-4d133dbd83e5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cca2e6da-4608-4ceb-8e49-404dde0ce5b4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2c919132-dd8f-4b6b-bcda-117436e0874a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f325a49c-0c14-46c9-b36c-a1c14172c313 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b69d519c-8e0e-4085-84db-fd6a9e98fd05 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1ca9c52b-dba5-4089-a1aa-19c4e0594362 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ed00f191-b068-42d0-a9dd-c92c31f2b56d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 623e67b2-e06e-4fa1-809b-4954c2868ed3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a13166f4-95f6-4726-9576-6d202bb4ce37 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e509e934-0e8e-4b17-b98f-8fa419ab2b30 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7585cf54-0900-4d4a-ae6f-cac4629d1dcc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b3abe6da-21f0-43af-a603-ffaf881891ac was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8690e92e-d43a-43ed-ab7c-949e79b2f05d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 02e16127-2397-4261-9303-e30efabcdaed was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 238dcb6c-942a-4607-b138-d1424fd299d8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c3f3ebda-f640-4dfe-a56a-0d7e419591d4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e33bca15-adfb-49fb-bf8b-bedc25ee255c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4e277855-ca15-47bc-8406-3787c101c2bf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e6dda7f0-7ef9-4b79-806e-86372e2aaed4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 92f7f8a6-bf54-4385-bca6-12c603048eeb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b479a27e-9711-47fe-8c82-aac718151032 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 06fa4bc0-3027-4289-b71e-f9eaa4ee4d3c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 011303c6-eb9e-4804-9922-84ec3273f2f9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 723dcebc-170e-4fbb-81db-45b42ef59feb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 93bab809-8f93-4d69-a0f2-795abedb8f1f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ef7f07b2-1031-4a3f-a945-2b12e9dfbff0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer df8260f7-0e25-47ce-815e-e6f76306fad1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0cb9d390-d785-468f-a76f-3670b74a1181 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 52a3588d-4015-4b5a-be98-2a8ac7d6f02a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ba7ffe0e-f0be-4651-bf0d-b7a77f94edc4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 35380ba9-205c-485f-9d17-5445ce9028ca was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d0038393-0452-414c-a401-ca1b0ab6bc85 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fae35a93-3db6-46c7-93a6-9bf73bbb0641 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 438c06e4-a758-4033-ae8f-9d231d9d19ec was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fb655a00-cd8e-43e3-bf62-944b68a7190d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6f8ec69a-eb96-432a-b2a1-13c5a5289133 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f2fecc47-826b-44c0-b6ed-4cb51ccff1c0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 365d8af6-f216-4263-b02c-40f3e3bfe010 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 59e3ddfa-d4e7-4dae-be8e-7579cb3ceaf2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9e4dc6e6-7b1e-44da-89e8-8907bf10f9e0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 33ed0053-1080-4e67-9458-0ba5c582b915 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fcae1667-8d41-495e-b94a-eeda0708dd4a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer abc94a80-c9bb-4ef7-97f6-d0c104d4f27e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bb9ba89a-2fac-47be-aca6-ea5b0c35e219 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8bd10d36-c7ca-4257-ad9a-7edf63e591dd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 81ef23e5-b2b3-4a56-921e-4879af26b6b5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b8ee42a0-cdf4-4ddd-99fe-6433f56f3194 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cac4ccc2-b2e9-48a5-8e8e-36ee4505dac7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 14723ef5-2deb-4a12-87e0-74b48bcb4184 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e553512a-d258-40d0-968c-6fbf6f415c14 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1d15bc99-40a2-4e71-9283-8fcf844914c1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ecffb56f-58b8-430c-9860-4c3168832be0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e6a75a23-4e98-4965-a995-e7c8763cfdcb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 39ef6400-40b7-4659-a240-4add69c24b93 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f59fef99-8881-4c37-aa7c-5c6142848449 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 20ea112e-718d-489e-8546-ce641b490ee9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7a9d2345-d2fc-45a1-9360-a2824a6f8a91 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5d9380d7-fdb5-428e-a317-92ae14a44e73 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 00ab5199-358b-4977-a300-f938373f98e1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9ecab2ab-0c76-45ba-a92b-b9e36dbd2628 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer da18ee2f-e11c-4534-987f-8199034e7b0b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8583d07a-d50a-48e4-bbfb-5ed8c7200966 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4b499f9d-d773-4f4a-90e8-e15a7d7f1b44 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0bdb09f2-172f-4c52-b0f6-d298a863aae7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 18a2599a-cc9a-4016-a48f-8efa4f239803 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ee33d379-7836-4c47-a4b7-d026dd265a40 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3b6642d1-a38a-4cfc-afd9-ef7b5ec09b51 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fb046e91-8cf5-44ac-b192-6fcd497e3909 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer de622ec2-c65c-40d1-8cb4-6b8686676733 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1a95a7ee-9fba-4777-a189-9a8bbe13924e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f31dcc67-7e4a-4a96-bb1d-9d89abf7419d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8a1f0c8f-0379-4b50-8b28-445febaa4efa was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2730815f-e204-4b75-9985-88646728f056 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3e111877-c6e3-4af7-b125-4c465dab5ba0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b299426a-1973-495f-8c4d-97c9235adf8d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5358bf30-3d0d-4542-9b58-8a337e8e7fbe was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 412e5aa2-4d88-4996-927a-b7b410096a1e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cadf4606-afe8-4b3d-afc7-b0284334d6ed was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 031f49ec-89ab-491c-af5b-ab91ab00ed10 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3dce8bbd-ed05-41d5-a3b8-b9372c2c6dd1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 890d67c7-b4aa-4591-ad67-1531eb8984b5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 192117f4-2ef6-4bb1-aeab-21927d408676 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 51383740-4b3d-4e2e-be99-20b0f9e89429 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8f15f567-768f-4884-afca-4b4b1434c602 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 95657e15-57a6-47f1-be0f-31e7b053f0dd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 092dbca6-e4c2-47a0-a311-7a54521f691e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ddb7d518-47a4-4497-a5d8-f8fc7d7b0f56 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d8caeb4e-7d1a-43cd-b08d-d5692c8e47d0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c0f6d8d6-1f72-4c8b-93df-9a20e95ee0bb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8bb1da38-c653-484f-a998-0b678628182d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2b5dd32a-c7e6-43aa-9fee-1f601feed205 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3977168d-451c-46a8-b204-13819fa791e9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 879edbd6-dab6-4869-a62c-f8fcd107105d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 64ca1ed5-1935-4fee-a80d-5fd78739fff4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ae1d2db1-e30c-441d-90b7-9c6a9d41eef6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 364050e1-aa40-402a-8d90-f2405af566bd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d7201457-9075-4c40-bf62-e1528cb9f5ca was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 741c42c0-e966-4f1b-afa6-ca23b8b6db52 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 70107d44-fa02-4e13-844f-185d2bd84d73 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c24fe6a1-821b-43f7-9a86-a2c48a5a092b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c5a29250-0a96-4320-ad4e-2a175cdf74a2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e5b8a1f9-e6cc-4735-a31c-099cc482359f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4adc1951-f53e-46f6-bd50-20f221f4a49e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f96ace44-1a52-4cee-898b-cef43dd48f6a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 049306f2-851b-44e1-ba76-b0f2f1d02ce9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 84890239-e993-4b3d-a88e-fb1c4365fa4f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 56db9402-b1c5-44ad-9b6d-93fb9ed21927 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1372949a-a205-4ad3-aa95-e1bde3068f1c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d52b73c1-f486-4893-811e-b4d418f6081d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d280e0d1-9245-4417-93a5-3f416eb3c1ea was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 678fc44b-81da-42bd-9600-3980b1904721 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d1851c7b-e1a5-4dd9-874c-089451c303a5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0f28ecee-dd8d-4009-ac72-71ee8f016508 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2dff652a-7115-4d65-96b8-f5ea7ada0e9c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3cb3067e-8c30-4fdf-bace-1a2f590adb61 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2d0e70b1-345f-4616-a422-61e5e252452b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 01bcaa69-4dde-4888-9eb6-51f551a5a0c4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e21a50ee-20b9-49c7-b7ce-5b02c87cb261 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8502a209-ef4c-41e1-8c7a-81d3d57149f8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bb75e645-febd-412a-8bb4-d3b56323ff6b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b8eb8798-929f-4f81-adcc-9cfd73dfec90 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 47c1dd50-01a8-4b9d-8f1a-341ce4c4e12a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b79c431a-be8e-4dcf-834f-6fd0f317c190 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 637f0de2-533d-46c7-a443-f740ebf14068 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a573d941-8ac2-4d82-a8e5-a87817716e57 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 75008bac-a6c0-4464-b3b7-083635dc2bcb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8077f37b-88ce-4025-b144-f4df289736df was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 28666951-adb2-4583-ba4a-f4499801b4d2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8e1ed509-affe-4a85-8db5-a244c40376ba was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4c7cc93f-c803-4764-b421-cc58b0d6ba43 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e2db3a41-41fb-4191-bd61-665b7988bb45 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cae2fc8c-11dc-4840-8faa-d65ba97ddd22 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3f7a36e3-673a-4185-a351-66fc467659cc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 84ffe90e-e6e7-46c3-91e0-bfbe5ae26969 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 40ef5eff-9c24-4884-a936-3ae6f4f1950b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9c295d2e-5625-4716-9746-b1535b500d90 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e4705b04-fec8-43b7-985f-42d42f2f7b6c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5d1e7c70-e7ca-4228-b62e-7f476e00bac3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 376a05d4-39a8-465a-a49d-8ef3e49846be was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cb34bf31-582b-40a3-bdcb-d2b5e609fec6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0308b0cf-2860-4f9e-9c97-e048be99902e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b5662efc-fc9a-43d4-8f9a-478f44dca92e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer daf1dcb3-04eb-4fb3-b800-b305f476c98f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer edf8b958-be91-4242-b491-694629dd6d5d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6cd9edf9-5ab6-475b-9861-611e3ba067d1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b361004d-2603-427d-bce9-7ca0e1bb1b39 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 01f2a3f7-49de-4ad1-a3c7-6c3d18e5bef0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4350f78f-58f8-4ddf-b19b-acf39291d98e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 25103c4c-ff45-4903-8572-4aacd3310cbb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bd2f666c-82f7-4e93-b1c4-5f26400e80ef was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c7eaedca-6dc5-45d0-8a71-1cee4779c723 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 77c70a02-c54b-4678-b00e-c13f17ab0819 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d9696389-acde-46a0-9b67-9d28023ee4a4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 645ceef6-a583-49ae-aaef-693984fe35bf was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6352ecb4-16c8-4f1f-8861-75af15b233e3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 19fe5c79-8f94-43d0-af20-2a3e369fa22a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8df000fe-44bf-4182-95e7-e6ca096bdfae was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a5fd5637-02c6-404f-b333-b64c46c1a21f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cfe5a719-920d-41e3-ad62-6402f6fcc20e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 26defd93-ce37-415c-910e-c919d171e902 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b4e9bc80-4879-4fa3-b740-49b07f281d39 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ee640af9-abe2-4c85-b451-50170dc57825 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 27123abb-84de-4aaf-bc3b-8c302c887d9a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0227e775-a328-4dfd-933f-fe13abf07ad5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer be65bc7a-be74-4e48-a7c3-d42b56feaa24 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5b32aa56-5482-439a-aa30-7eab34baa813 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d5025e50-5cf1-4e5e-9dd9-ba6f3b050756 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 785e4078-7d6a-489e-b794-c131ed24b9b1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 005d4ce6-bd08-4422-af3b-91a1f06e2549 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7c2a8e58-803d-425f-9818-104adecc0d50 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer df9c128d-7801-4977-9c56-a98258c5c95f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c2899021-e130-4464-9592-f6ad514fcabd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 53bb1ef0-8664-4571-a9f7-468d16394459 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0188ce65-ef2a-451d-8c5b-1c13b4659e6c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ba8bdc3e-8817-4f7b-9ce3-be670ea6841f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6660c6eb-980e-47c3-a008-80c261f7f332 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c6df79d0-c7de-4966-bae8-0e0c76854ef7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer acffe554-1394-4448-abb1-8bd3ef146592 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 06a22325-4c29-4ec8-bae7-70e60827bb98 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b8588ee7-ddbe-4fc4-bfb2-9e0775369b29 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 356d9c7b-3e53-4a8f-937f-1156dcd6cd0f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7609ce4a-f97f-4d8c-9511-fb8d401d3cb9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0fb70ea4-95e1-40e4-87ed-8c56c054b83a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 29cfa4b1-90c9-4725-8d95-d07e460c3468 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer dc2760f0-cb86-49b1-872e-270f49ab150a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3d170238-b5e0-434c-835c-367bf924a466 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ffa08d17-dd9b-4322-89e7-030ccc47118f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c7907a0f-0faf-48cf-bf00-fd8b195a438e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 03c0ab6a-390f-4346-93a3-b7ec0573662f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e8cff01e-7ec4-42c1-8d0f-87a1908f948a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer bdecd2f2-4b7f-4023-81b3-8278599d78a7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer fb95d7f9-ddd5-4a6d-9798-e12752d24c00 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 27cd70cb-cc9c-4c65-a064-1d70070088b9 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 95f48a34-728a-4cce-8084-474d7a4802cd was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d2356562-73eb-4d4f-b071-d568cf650b6b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6022cccd-a4c2-4839-ad90-bfbf4752bba8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4129ad6e-30e5-422e-8c04-32c0456ab424 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b6594d45-72ce-4e17-9b6b-f8ccb93ced7e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f296486e-8702-4bd6-847c-c7ed09b9a6b3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6c79518c-04a0-4827-aa54-6baeee7d4147 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ca202a14-4df8-4a3f-b922-037404b1c4ea was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d9c6dbf0-c08f-432b-a0e8-11ef409815fc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e1b9119f-8180-4e07-9612-f4787aef7ade was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e00c1d57-2dd3-4fa7-9fe8-918a23457f36 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d3bb6175-44ce-47ca-a349-44a5bcc49d7c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b36efca8-9c4b-45c7-9fe6-2d709f5c3566 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 40dd4082-4837-4109-8f03-bc3765692eed was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 28c7c446-5317-412f-b3aa-29c08992b1d1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6f4aaf63-f3cf-4596-9233-dc98af2398f6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ac2e50c9-9a88-4487-8772-c42bbc101ba2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 356f8a8d-453e-45c6-a44a-6f2374affe79 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6c4896ac-ce9e-48e9-825f-9f8db1133e0a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9b28fca6-4f22-4384-b4bb-82284e2eadbc was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f0a40bb9-06d4-4415-9cdf-ea1cd9e0e83d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a1bde694-b23d-42bb-88a6-82774db53ea6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4da0fa8c-dd5d-4df3-a459-e4b4e9578f76 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 59da0cac-4ab3-483d-8995-c633036c9907 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8e2972d2-ae23-4d48-a166-54e9f7371e93 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer db58d266-1e56-4fc8-8d72-64ea1c4468e4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8f1e8caf-ae0c-48f9-a500-f210955170cb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6fafcb16-cdf2-4ace-8d03-2ff5afe610fb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8139db64-cd7b-4320-bd31-0df3e994bb80 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e325b231-7ac6-49b0-9375-e26e5db7d109 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a1b95a8e-a7f2-4555-92fa-5e9f7d71603d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d4a7a3e5-8f1c-4174-a694-ecefa5cbdae4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 59440d2e-85a7-4e05-a3df-f8b2e2a0babb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6aadf182-66bf-4836-9fad-f1ac9c7b1fe6 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 3823ccc3-af23-48f5-a3fd-7b940f20ce43 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 735141f6-2fa4-445f-bbf0-d91406c2f58f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 9448a383-3d72-4d80-b516-798a962c4d03 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 53cb9d03-fc25-497a-ab87-3f3b6fdf9146 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer dd8f257b-b9a9-4427-99a7-78a04737e7f2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 54ba405e-6a54-4716-a015-6e5e8199b950 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 776498b4-1c38-45d1-bd51-f7e6c92f9b0d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f43b4f35-490d-4be4-a4d9-f8713c0e95a2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e9c368ca-be2c-4550-9daf-7492a7880d43 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 329f86e8-4b25-46b1-a119-1ab2fe1e8624 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 5c101b2e-227b-4bf7-80b4-db9b62d9b124 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 0c4d8411-03cb-451c-a837-4633e3023836 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a9865183-814f-4cf8-8dac-4921c12660a4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6223192c-b431-4c94-93a4-b280c70a2e84 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8ab362d1-085c-45c0-8f29-304627e18dc1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 301c7b94-e1bb-468a-8789-1fd944c8a377 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8358d8f6-6553-4007-b890-5461e1a0c10a was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4208d5a3-4806-4285-bcaf-e57f512bcbec was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer a84ebe27-ec6c-4fe4-8741-79a1321fdd88 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e51ba2cf-ca55-4e42-936c-c5a762a5551f was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 23442a54-b491-4206-a4cb-7eb61f35cce5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d6f252df-5b79-4050-8335-083709f2f31e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b585f9e2-9834-42d0-9239-ac61216a753e was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6d68e49f-ae1d-4124-9f95-396f6e93f297 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1c06f644-6a75-42d9-bf3b-35dded525d05 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 1efe503f-ea61-4024-a093-d109068efbd0 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 8d6067cf-8f24-4187-92fa-5f77d282169c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7cc16872-5b68-4f2a-92f7-21518fc7b56b was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer cf224db3-2a47-4564-855f-14ec0abc2dfe was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 742e503d-4184-4da6-a3a0-2dc26a6a2384 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 439c4a2b-7105-4e6e-9e40-0119623bfa36 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 13c0e87c-6ab3-4fef-a744-769c54b51a3c was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer d7e9de18-4a22-4262-9fea-c7d3c4dab5f8 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b0cf18fa-12e8-4e65-bef0-71864318f505 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 621a1e6d-930f-4e0d-91fc-a25e5e52b297 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ef4696c9-487a-41be-9704-d522894f41c4 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ce0bc4ce-7307-4813-a5d4-14aa49b35589 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 4eef1bff-d463-4e27-862e-9d337b54aad3 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e98ea07f-e414-43b9-a166-49804c130db1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 2fd95915-020a-437f-a1bd-20edacc8d988 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 189e43f9-071e-4f25-b933-b8cd3e55f2c5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f7920ec5-ea66-44fa-bc04-11f1c1b17add was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f75e88de-0338-4e18-8f25-57000022f505 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 6ada35eb-4ba0-44b7-a5c4-864a136431c7 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c999ed14-1e5b-42fa-a8e2-1726a48d7c69 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer f0c1d480-b5fc-47d5-82a9-6a910221a794 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 7e6d8fde-537d-4775-9033-d9be2cf17742 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer b20f10b7-4149-47f1-b7b5-8584acc72269 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 25548275-db87-425c-a028-fe6937db7ce1 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 64369f5f-691e-4ebe-b676-c4b721e58619 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 95f2c2d8-11fe-41df-a627-ed8b4f930ffb was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c504ce1d-4cfc-4272-b178-f78d80ce7462 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer 11adcb0e-e02f-43f2-8b7a-b50b2b264ec2 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer c3304b94-cceb-4505-b7ba-4474535dc8b5 was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer ca943bd0-1d50-4e89-ad02-8a5864c4655d was interrupted.
+mai. 12, 2024 11:07:09 PM utils.LoggerSetup log
+INFO: Customer e4c89eff-e345-4cd1-9e45-2591ae654f61 was interrupted.
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Error connecting to factory: Connection refused: connect
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Error connecting to factory: Connection refused: connect
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Error connecting to factory: Connection refused: connect
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Stock: Vehicle purchased - null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Stock: Vehicle purchased - null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Stock: Vehicle purchased - null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Stock: Vehicle sold - null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Porsche Dealership: Porsche received vehicle: null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Stock: Vehicle sold - null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: BMW Dealership: BMW received vehicle: null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Stock: Vehicle sold - null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Mercedes Dealership: Mercedes received vehicle: null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Porsche Dealership: Porsche sold vehicle: null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: BMW Dealership: BMW sold vehicle: null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Mercedes Dealership: Mercedes sold vehicle: null
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Customer 39721009-ca85-4d8c-9cd6-e53ca6aa2160 waiting for cars at Porsche...
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Customer 3f1de1d7-d6d7-489f-a82e-4c42c10bebe2 waiting for cars at Mercedes...
+mai. 13, 2024 11:55:39 AM utils.LoggerSetup log
+INFO: Customer 8038a247-5064-49c8-ad94-38441bda9a2e waiting for cars at BMW...
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 322cf029-5f42-4ef3-ae4c-2bd5f910ea67 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 39721009-ca85-4d8c-9cd6-e53ca6aa2160 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 61c84cbd-6d5b-464d-ac83-b99b30c5b0d1 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 22b76f66-fa53-4f49-b335-d1f8ac4591d0 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 4931808f-ffd8-4a15-9cee-038342cf8799 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer bc66f471-5080-4152-9974-5b2e83e02cbd was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer cc152e47-c963-4c0e-a5b3-7b2581e3b51d was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 283e3d0e-8f52-4fa3-9aeb-0871e325648f was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 4a612f33-d0db-4a71-bb96-7388edc3db1c was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 8dfabf9e-d2f1-4cfd-8b5e-cfef686f31fb was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer a067b742-bb7e-4a05-a767-cf25f23a7837 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 87b001b9-ad72-4a52-9624-c592d62b0c29 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 898f8cf6-4b45-4cac-9f4e-57fcd32a03d3 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 3f1de1d7-d6d7-489f-a82e-4c42c10bebe2 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 841f41ce-f014-4c04-b77a-eaf6abbc4796 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 1e0f3bb2-86b2-4e96-b4db-8851f3e4a7c4 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 8038a247-5064-49c8-ad94-38441bda9a2e was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 6157d4ec-ddd2-4451-b27c-ecfc661de8b7 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 8ad31e17-292a-43f6-860e-6de7faf37b95 was interrupted.
+mai. 13, 2024 11:55:47 AM utils.LoggerSetup log
+INFO: Customer 2a9eb68c-fcea-4514-b4ba-23d24c8767a9 was interrupted.
